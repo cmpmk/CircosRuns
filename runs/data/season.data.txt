@@ -1,0 +1,32 @@
+chr - summer summer 0 20  white
+chr - fall fall 0 20  white
+chr - winter winter 0 20  white
+chr - spring spring 0 20  white
+
+band summer band1 band1 0 4 blues-13-seq-2
+band summer band2 band2 4 8 lred
+band summer band3 band3 8 12 red
+band summer band4 band4 12 15 dgreen
+band summer band5 band5 15 18 white
+band summer band6 band6 18 20 vlblue
+
+band fall band1 band1 0 4 vlred
+band fall band2 band2 4 8 lred
+band fall band3 band3 8 12 red
+band fall band4 band4 12 15 dgreen
+band fall band5 band5 15 18 white
+band fall band6 band6 18 20 vlblue
+
+band winter band1 band1 0 4 vlred
+band winter band2 band2 4 8 lred
+band winter band3 band3 8 12 red
+band winter band4 band4 12 15 dgreen
+band winter band5 band5 15 18 white
+band winter band6 band6 18 20 vlblue
+
+band spring band1 band1 0 4 vlred
+band spring band2 band2 4 8 lred
+band spring band3 band3 8 12 red
+band spring band4 band4 12 15 dgreen
+band spring band5 band5 15 18 white
+band spring band6 band6 18 20 vlblue
